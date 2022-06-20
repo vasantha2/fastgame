@@ -1,0 +1,8 @@
+//export {default as jewel} from './jewel.png'
+export {default as ametistwin} from './ametistwin.jpg'
+//export {default as dropletidle} from './dropletidle.png'
+export {default as ovalidle} from './ovalidle.jpg'
+export {default as piramididle} from './piramididle.jpg'
+export {default as quartzidle} from './quartzidle.jpg'
+export {default as ruby} from './ruby.png'
+export {default as blank} from './blank.png'

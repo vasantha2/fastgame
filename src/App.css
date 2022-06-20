@@ -1,0 +1,18 @@
+*{
+   background-color: palegoldenrod;
+   justify-content: cover;
+   
+}
+.App{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.game img {
+  width: 70px;
+  height: 70px;
+}
+.score{
+     text-align: black;
+     font-size: 50px;
+}
